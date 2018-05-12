@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9657
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
 description: A collection of short stories for boys, including adventure stories.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21039#Boycotted-and-Other-Stories
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '2007-04-12'
 gutenberg_type: Text
